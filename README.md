@@ -1,6 +1,6 @@
 # oliveDuino
 
-Change the Arduino IDE colors to black background and green color font
+Change the Arduino IDE colors to black background and green color font (almost an old school style)
 
 Green Olive Colors for Arduino IDE
 
