@@ -1,4 +1,4 @@
-# oliveDuino
+# Arduino Old School Color (or almost...)
 
 Change the Arduino IDE colors to black background and green color font (almost an old school style)
 
@@ -10,4 +10,4 @@ All you need to do is copy this content into your Arduino Folder   \arduino\lib\
 
 Overwrite it !
 
-![Picture 1](https://github.com/egzola/oliveDuino/blob/master/oliveDuino.jpg?raw=true)
+![Picture 1](https://github.com/egzola/old-school-color-for-arduino-ide/blob/master/screenshot.jpg?raw=true)
