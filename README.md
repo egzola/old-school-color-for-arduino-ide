@@ -9,3 +9,5 @@ by Eduardo Zola
 All you need to do is copy this content into your Arduino Folder   \arduino\lib\theme
 
 Overwrite it !
+
+![Picture 1](https://github.com/egzola/oliveDuino/blob/master/oliveDuino.jpg?raw=true)
